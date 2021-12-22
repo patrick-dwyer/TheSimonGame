@@ -10,6 +10,7 @@ level = 1
 
 $(document).on("keydown", function() {
     startGame()
+    toggleStartBtn()
   
 });
 
